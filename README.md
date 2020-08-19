@@ -15,7 +15,7 @@ The dataset used is available in the Azure Machine Learning Studio named as **Pi
 
 *The scored probabilites are based on the default sample data*.
 
-### To run on a Cloud-based Notebook VM
+## To run on a Cloud-based Notebook VM
 Here are the following steps:
 
 1. Clone this github repository
@@ -24,7 +24,7 @@ Here are the following steps:
 4. On the Notebooks page, click on the Upload files icon to upload the .ipynb file from the github repository
 5. Execute the Jupyter notebook script by either clicking on the Run link on the run Notebook server page, or Click on the [...] link to open in Jupyter and run the script.
 
-#### Training Experiments
+## Training Experiments
   * [Diabetes prediction using Two Class Decision Forest algorithm](https://gallery.cortanaintelligence.com/Experiment/Diabetes-Prediction-Two-class-decision-forest).
   
   * [Diabetes prediction using Two Class Logistic Regression algorithm](https://gallery.cortanaintelligence.com/Experiment/Diabetes-Prediction-Two-class-logistic-regression).
