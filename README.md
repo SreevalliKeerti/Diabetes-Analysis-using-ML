@@ -26,8 +26,13 @@ Here are the following steps:
 
 #### Training Experiments
   *[Diabetes prediction using Two Class Decision Forest algorithm](https://gallery.cortanaintelligence.com/Experiment/Diabetes-Prediction-Two-class-decision-forest).
+  
   *[Diabetes prediction using Two Class Logistic Regression algorithm](https://gallery.cortanaintelligence.com/Experiment/Diabetes-Prediction-Two-class-logistic-regression).
+  
   *[Diabetes prediction using Two Class Boosted Decision Tree algorithm](https://gallery.cortanaintelligence.com/Experiment/Diabetes-Prediction-Two-class-boosted-decision-tree).
+  
   *[Diabetes prediction using Two Class Locally Deep Support Vector Machine algorithm](https://gallery.cortanaintelligence.com/Experiment/Diabetes-Prediction-Two-class-locally-deep-support-vector-machine).
+  
   *[Diabetes prediction using Two Class Bayes Point Machine algorithm](https://gallery.cortanaintelligence.com/Experiment/Diabetes-Prediction-Two-class-Bayes-Point-Machine).
+  
   *[Diabetes prediction using Two Class Averaged Perceptron algorithm](https://gallery.cortanaintelligence.com/Experiment/Diabetes-Prediction-Two-class-averaged-perceptron).
