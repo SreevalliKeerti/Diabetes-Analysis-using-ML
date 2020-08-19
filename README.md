@@ -25,5 +25,9 @@ Here are the following steps:
 5. Execute the Jupyter notebook script by either clicking on the Run link on the run Notebook server page, or Click on the [...] link to open in Jupyter and run the script.
 
 #### Training Experiments
-[Diabetes prediction using Two Class Decision Forest algorithm](https://gallery.cortanaintelligence.com/Experiment/Diabetes-Prediction-Two-class-decision-forest
-).
+  *[Diabetes prediction using Two Class Decision Forest algorithm](https://gallery.cortanaintelligence.com/Experiment/Diabetes-Prediction-Two-class-decision-forest).
+  *[Diabetes prediction using Two Class Logistic Regression algorithm](https://gallery.cortanaintelligence.com/Experiment/Diabetes-Prediction-Two-class-logistic-regression).
+  *[Diabetes prediction using Two Class Boosted Decision Tree algorithm](https://gallery.cortanaintelligence.com/Experiment/Diabetes-Prediction-Two-class-boosted-decision-tree).
+  *[Diabetes prediction using Two Class Locally Deep Support Vector Machine algorithm](https://gallery.cortanaintelligence.com/Experiment/Diabetes-Prediction-Two-class-locally-deep-support-vector-machine).
+  *[Diabetes prediction using Two Class Bayes Point Machine algorithm](https://gallery.cortanaintelligence.com/Experiment/Diabetes-Prediction-Two-class-Bayes-Point-Machine).
+  *[Diabetes prediction using Two Class Averaged Perceptron algorithm](https://gallery.cortanaintelligence.com/Experiment/Diabetes-Prediction-Two-class-averaged-perceptron).
